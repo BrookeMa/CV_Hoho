@@ -9,7 +9,7 @@
 ### 消息Like
 #### 模仿Slack的功能
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/GIF/IMB_Iy5FvW.GIF)
-### 支持投票
+### 投票
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/GIF/IMB_d4DiAD.GIF)
 ### 主题模式
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/GIF/IMB_H6Etlb.GIF)
