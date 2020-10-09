@@ -10,8 +10,9 @@
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_H6Etlb.GIF)
 ### 一对一聊天
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_H7ex3U.GIF)
-
+### 频道功能
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_itsTj1.GIF)
+
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_pZ8djB.GIF)
 
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_vYetBt.GIF)
