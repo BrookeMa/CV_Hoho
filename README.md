@@ -4,6 +4,11 @@
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_yUvxwi.GIF)
 ### 发送图片
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_5tmRB3.GIF)
+### 支持语音
+![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_4mKSyx.GIF)
+### 消息Like
+#### 模仿Slack的功能
+![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_Iy5FvW.GIF)
 ### 支持投票
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_d4DiAD.GIF)
 ### 主题模式
@@ -17,3 +22,5 @@
 ### 电子黑板遥控器
 #### 与电子黑板链接方式除了扫码外还有通过蓝牙配对，由于当时没有录制遥控器里面内容，无法继续展示，里面包含视频投影，电子黑板内容同步，PPT放映，视频课件分享，视频录制等功能。
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_ZrxZnL.GIF)
+
+
