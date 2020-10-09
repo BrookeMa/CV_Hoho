@@ -4,13 +4,11 @@
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_yUvxwi.GIF)
 ### 发送图片
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_5tmRB3.GIF)
-### 支持试题投票
+### 支持投票
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_d4DiAD.GIF)
-
-
-![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_f2IKX5.GIF)
-
+### 主题模式
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_H6Etlb.GIF)
+
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_H7ex3U.GIF)
 
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_itsTj1.GIF)
