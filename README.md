@@ -8,7 +8,7 @@
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_d4DiAD.GIF)
 ### 主题模式
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_H6Etlb.GIF)
-
+### 一对一聊天
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_H7ex3U.GIF)
 
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_itsTj1.GIF)
