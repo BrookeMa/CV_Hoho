@@ -4,7 +4,7 @@
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_yUvxwi.GIF)
 ### 发送图片
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_5tmRB3.GIF)
-### 支持选题
+### 支持试题投票
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_d4DiAD.GIF)
 
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_EhQUt0.GIF)
