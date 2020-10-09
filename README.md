@@ -14,7 +14,6 @@
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_itsTj1.GIF)
 ### 搜索功能
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_pZ8djB.GIF)
-
-![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_vYetBt.GIF)
-
+### 电子黑板遥控器
+#### 与电子黑板链接方式除了扫码外还有通过蓝牙配对，由于当时没有录制遥控器里面内容，无法继续展示，里面包含视频投影，电子黑板内容同步，PPT放映，视频课件分享，视频录制等功能。
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_ZrxZnL.GIF)
