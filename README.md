@@ -7,7 +7,6 @@
 ### 支持试题投票
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_d4DiAD.GIF)
 
-![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_EhQUt0.GIF)
 
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/IMB_f2IKX5.GIF)
 
