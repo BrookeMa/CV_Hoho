@@ -1,4 +1,6 @@
 # CV_Hoho
+
+### [🇬🇧English](https://github.com/BrookeMa/CV_Hoho/blob/master/README-EN.md)
 #### Hoho是教学配套软件，包含电子黑板软件和移动端软件，后来公司没有运营下去，APP已经找不到了，这里把当时录制的视频做成GIF图用于展示，由于电子黑板功能当时没有录制，这里无法展示。
 ### 支持书写
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/GIF/IMB_yUvxwi.GIF)
