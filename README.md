@@ -6,9 +6,7 @@ HoHo is a technology company specializing in electronic blackboards and teaching
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/GIF/IMB_5tmRB3.GIF)
 ### Voice
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/GIF/IMB_4mKSyx.GIF)
-### Message Like
-The function copy from Slack
-
+### Add reaction
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/GIF/IMB_Iy5FvW.GIF)
 ### Vote
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/GIF/IMB_d4DiAD.GIF)
