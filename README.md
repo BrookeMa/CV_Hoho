@@ -1,5 +1,5 @@
-# CV_Hoho
-Hoho is teaching supporting software, including electronic blackboard software and mobile terminal software. Later the company did not operate, the app have been removed. Here's a GIF of the video that was recorded at the time for display.
+# Hoho
+HoHo is a technology company specializing in electronic blackboards and teaching software. The company's goal is to revolutionize the way educators and students interact in the classroom, by providing innovative technology solutions that enhance the learning experience. With a focus on user-friendly design, HoHo's electronic blackboards and teaching software make it easy for educators to engage with students and enhance the learning process. The company's products are designed to be flexible, allowing educators to adapt their teaching style and methodologies to best meet the needs of their students. Whether it's through interactive blackboards, collaborative learning tools, or other innovative technologies, HoHo is dedicated to delivering solutions that help educators and students succeed.
 ### Writing
 ![image](https://github.com/BrookeMa/CV_Hoho/blob/master/GIF/IMB_yUvxwi.GIF)
 ### Send Photos
